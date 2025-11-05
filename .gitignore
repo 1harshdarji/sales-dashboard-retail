@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+data/raw/
+.vscode/
+__pycache__/
+*.pyc
+*.pbix
+*.twbx
