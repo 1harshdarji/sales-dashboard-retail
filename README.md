@@ -2,7 +2,7 @@
 📊 Retail Sales Dashboard — End-to-End Data Analytics Project
 
 This project is an end-to-end Data Analytics solution for a retail business using
-Python, Power BI, SQL, and GitHub.
+Python, Power BI, SQL.
 It analyzes customer orders, product performance, regional sales, and discount impact,
 and presents insights through an interactive Power BI dashboard.
 
