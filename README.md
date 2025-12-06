@@ -7,7 +7,7 @@ It analyzes customer orders, product performance, regional sales, and discount i
 and presents insights through an interactive Power BI dashboard.
 
 
-🚀 Project Objectives
+## 🚀 Project Objectives
 
     Clean and prepare Superstore retail data
     Perform Exploratory Data Analysis (EDA) in Python
@@ -16,7 +16,7 @@ and presents insights through an interactive Power BI dashboard.
     Present insights through summary reports
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Python (Pandas, Matplotlib)	     Cleaning + EDA
 Power BI                         Dashboard + visualization
 SQL (MySQL)	                     Analysis queries
@@ -48,7 +48,7 @@ sales-dashboard-retail/
 └── README.md
 
 
-📊 Power BI Dashboard Highlights
+## 📊 Power BI Dashboard Highlights
 
 The dashboard includes:
 
@@ -67,8 +67,12 @@ Sales by Region
 Interactive slicers (Date, Category)
 PDF export available in reports/Dashboard_Report.pdf.
 
+## 📸 Dashboard Preview
 
-📈 Insights Summary
+![Dashboard Overview](images/dashboard_overview.png)
+
+
+## 📈 Insights Summary
 
 Technology category leads revenue
 Certain products disproportionately drive sales
@@ -78,7 +82,7 @@ Revenue trends show seasonal fluctuations
 Detailed summary available in reports/executive_summary.md
 
 
-🧮 SQL Highlights
+## 🧮 SQL Highlights
 
 sql/queries.sql includes:
 
@@ -90,7 +94,7 @@ Customer repeat orders
 Discount impact analysis
 
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Add forecasting models
 New dashboards for supply chain
